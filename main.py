@@ -13,7 +13,7 @@ def getacc(act_no):
     if(result !=None):
         return True
     else:
-        print("Account Doesnot Exist..")
+        print("Account Doesnot Exist...")
         return False
 
 def openacc(): 
